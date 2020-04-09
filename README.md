@@ -1,3 +1,2 @@
 # vjezba2
-
-evo neki tekst
+Drugi unos
